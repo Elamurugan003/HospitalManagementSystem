@@ -1,0 +1,3 @@
+101;Raj;20;male;abc north street xxxxx;978464536
+102;Mahesh;24;male;abc south street xxxxx;9758436367
+103;Anusha;22;female;abc middle street xxxx;9854674859
